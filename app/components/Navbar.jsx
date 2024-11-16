@@ -40,7 +40,7 @@ const Navbar = () => {
 
                    
 
-                    <div className='flex items-center gap-12 mx-2 '>
+                    <div className='flex items-center gap-11 mx-2 '>
                         
                         <button className='text-[#1A4FA0] bg-white px-3 py-2 font-bold rounded-md hover:bg-[#1A4FA0] hover:text-white hover:border w-[6rem]'>Register</button>
                         <button className='text-[#1A4FA0] bg-white py-2 px-3 font-bold rounded-md hover:bg-[#1A4FA0] hover:text-white hover:border'>Sign in</button>
